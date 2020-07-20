@@ -4,9 +4,9 @@ body {
   font-weight: 300;
   font-size: 16px;
   letter-spacing: .025rem;
-}
-
-h1,
+background: blue;
+color: black;
+h1,   
 h2,
 h3,
 h4,
