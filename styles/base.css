@@ -65,14 +65,19 @@ iframe {
   margin-left: -1rem;
   margin-right: -1rem;
 }
-
-  
 .col {
   flex-grow: 1;
   padding: 1rem;
 }
 
-.profile-img {
+.banner {
+    background: url('../images/bg.jpg');
+  background-size: cover;
+  min-height: 100vh;
+  padding: 3rem;
+  text-align: center;
+
+  .profile-img {
   max-height: 33vh;
   width: auto;
   border-radius: 50%;
