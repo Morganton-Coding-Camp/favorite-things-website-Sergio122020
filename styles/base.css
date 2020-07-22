@@ -69,14 +69,14 @@ iframe {
   flex-grow: 1;
   padding: 1rem;
 }
-
 .banner {
     background: url('../images/bg.jpg');
-  background-size: cover;
-  min-height: 100vh;
+  background-size:cover;
+  min-height:100vh;
   padding: 3rem;
   text-align: center;
-
+}
+  
   .profile-img {
   max-height: 33vh;
   width: auto;
