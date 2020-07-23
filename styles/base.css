@@ -95,3 +95,25 @@ iframe {
   width: auto;
   border-radius: 50%;
 }
+
+ .Favorite-Animal {
+   background: #0d0d0d;
+   color: red;
+
+}
+
+ 
+.Favorite-Food {
+   background: #1a1a1a;
+   color: red;
+
+}
+
+
+.Favorite-Color {
+   background: #272727;
+   color: red;
+
+}
+
+    
