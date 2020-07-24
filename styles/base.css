@@ -97,18 +97,18 @@ iframe {
 }
 
  .favorite-animal {
-   background: #0d0d0d;
+   background: #b4ecff;
    color: red;
 }
 
  .favorite-food {
-   background: #1a1a1a;
-   color: red;
+   background: #e7f9ff;
+   color: green;
 }
 
 .favorite-color {
-   background: #272727;
-   color: red;
+   background: #4fd3ff;
+   color: grey;
 }
 
 .favorite-color p,
