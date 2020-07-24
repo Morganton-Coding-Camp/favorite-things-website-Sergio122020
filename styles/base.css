@@ -96,24 +96,27 @@ iframe {
   border-radius: 50%;
 }
 
- .Favorite-Animal {
+ .favorite-animal {
    background: #0d0d0d;
    color: red;
-
 }
 
- 
-.Favorite-Food {
+ .favorite-food {
    background: #1a1a1a;
    color: red;
-
 }
 
-
-.Favorite-Color {
+.favorite-color {
    background: #272727;
    color: red;
-
 }
+
+.favorite-color p,
+.favorite-food p,
+.favorite-animal p {
+  font-size: 1.5rem;
+}
+
+
 
     
