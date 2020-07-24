@@ -136,7 +136,7 @@ iframe {
   }
    
 .btn:hover {
-  border: 10px
+  border: 10px solid green;
   letter-spacing: 4px;
   opacity: .4;
   }
