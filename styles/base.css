@@ -117,6 +117,32 @@ iframe {
   font-size: 1.5rem;
 }
 
+.footer {
+ padding: 3rem;
+  text-align: center;
+ }
+
+.btn {
+  padding: 2rem 5rem;
+  background:  #6bb6ff;
+  color: green;
+  font-size: 2rem;
+  border-radius: .25rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 2px double green;
+  transition: all .5s ease;
+  }
+   
+.btn:hover {
+  border: 10px
+  letter-spacing: 4px;
+  opacity: .4;
+  }
+  
+  
+
 
 
     
